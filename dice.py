@@ -1,10 +1,7 @@
 import random
 import time
 
-high = 6
-low = 1
-
-x = random.randint(low, high)
+x = random.randint(1, 6)
 print("Rolling Dice")
 time.sleep(1)
 
